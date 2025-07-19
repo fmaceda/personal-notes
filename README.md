@@ -7,6 +7,7 @@ This repository contains all the notes I took while learning about technology.
 1. [Software development Notebooks](#software-development-notebooks)
     - [Programming Languages](#programming-languages)
       - [C# and Dotnet](#c-and-dotnet)
+    - []
     - [Design and Architecture](#design-and-architecture)
       - [Clean Code](#clean-code)
       - [Programming Paradigms](#programming-paradigms)
