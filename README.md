@@ -7,7 +7,8 @@ This repository contains all the notes I took while learning about technology.
 1. [Software development Notebooks](#software-development-notebooks)
     - [Programming Languages](#programming-languages)
       - [C# and Dotnet](#c-and-dotnet)
-    - []
+    - [Roadmaps](#roadmaps)
+      - [Data Structure & Algorithms](#data-structures--algorithms)
     - [Design and Architecture](#design-and-architecture)
       - [Clean Code](#clean-code)
       - [Programming Paradigms](#programming-paradigms)
@@ -49,6 +50,13 @@ This repository contains all the notes I took while learning about technology.
 1. [Structured Programming](./notebooks/software-development/design-and-architecture/programming-paradigms/001-Structured-Programming.ipynb)
 2. [Object-Oriented Programming](./notebooks/software-development/design-and-architecture/programming-paradigms/002-Object-Oriented-Programming.ipynb)
 3. [Functional Programming](./notebooks/software-development/design-and-architecture/programming-paradigms/003-Functional-Programming.ipynb)
+
+### Roadmaps
+
+#### Data Structures & Algorithms
+
+1. [Roadmap](./notebooks/software-development/roadmaps/data-structures-and-algorithms/000-roadmap.ipynb)
+2. [Foundation Building](./notebooks/software-development/roadmaps/data-structures-and-algorithms/001-foundation-building.ipynb)
 
 # Resources 
 
