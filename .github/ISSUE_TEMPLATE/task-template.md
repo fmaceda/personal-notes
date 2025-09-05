@@ -1,0 +1,23 @@
+---
+name: Task Template
+about: Describe the task details
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+# Title: [Area] Action (clear)
+
+Description:
+Goal:
+
+---
+
+Tasks:
+- [ ] Task 1
+- [ ] Task 2
+
+Useful URLs:
+- [URL 1](url)
+- [URL 2](url)
