@@ -1,5 +1,5 @@
 ---
-name: Task Template
+name: "[Area] Action (clear)"
 about: Describe the task details
 title: ''
 labels: ''
@@ -7,10 +7,8 @@ assignees: ''
 
 ---
 
-# Title: [Area] Action (clear)
-
-Description:
-Goal:
+<Description>
+Goal: <Your_Goal>
 
 ---
 
