@@ -1,5 +1,5 @@
 ---
-name: "[Area] Action (clear)"
+name: Task Template
 about: Describe the task details
 title: ''
 labels: ''
