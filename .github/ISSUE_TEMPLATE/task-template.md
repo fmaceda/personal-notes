@@ -14,8 +14,9 @@ assignees: ''
 
 - [ ] Task 1
 - [ ] Task 2
+- *Book*, by Author
 
-## Useful URLs
+## Resources
 
 - [URL 1](url)
 - [URL 2](url)
