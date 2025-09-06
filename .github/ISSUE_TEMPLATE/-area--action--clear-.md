@@ -7,15 +7,15 @@ assignees: ''
 
 ---
 
+## Description
 <Description>
-Goal: <Your_Goal>
 
----
+## Tasks
 
-Tasks:
 - [ ] Task 1
 - [ ] Task 2
 
-Useful URLs:
+## Useful URLs
+
 - [URL 1](url)
 - [URL 2](url)
